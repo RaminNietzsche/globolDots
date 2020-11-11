@@ -1,0 +1,6 @@
+   68  ln -s /home/dots/.files/.config/i3 /home/dots/.config
+   81  ln -s ~/.files/.gitconfig .
+   84  ln -s ~/.files/.gitignore .
+   96  ln -s ~/.files/.oh-my-zsh .
+   99  ln -s ~/.files/.zshrc .
+
